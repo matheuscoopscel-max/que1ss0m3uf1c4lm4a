@@ -129,7 +129,7 @@ AureusBet é uma plataforma de apostas online enterprise com:
 ### 1. Clonar e configurar
 
 ```bash
-git clone https://github.com/seuorg/aureusbet.git
+git clone https://github.com/matheuscoopscel-max/que1ss0m3uf1c4lm4a
 cd aureusbet
 
 # Configurar variáveis de ambiente
